@@ -6,7 +6,6 @@ This repository contains code for analyzing dental claim data. The data is proce
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [EDA](#eda)
 - [Feature Engineering](#feature-engineering)
